@@ -1,0 +1,8 @@
+Roosevelt       50000
+Kennedy         70000
+Lincoln         40000
+Truman          60000
+
+
+
+
